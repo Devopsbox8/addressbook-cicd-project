@@ -1,5 +1,5 @@
-hellow world the Project 1 code activated....
-project 2 code red...perform asap
+hellow world the Project 1 code activated 
+ready for project 2
 
 
 this is my first upate hi this is my first update  hello woseeeeeasdsadasdasdasdasdasdasdeedasdsrdxcasdasdasdsdad adssas
