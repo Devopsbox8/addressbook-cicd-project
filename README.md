@@ -1,3 +1,5 @@
+Completed the automation of CICD Pipeline using Poll-SCM
+
 Iam Pathi Bharath Student of Staragile
 
 Galatic Nuclie's first pipeline automation....:) :>
